@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=["✨ Cover","---","🎨 Design - in Progress","🎯 Final Designs","---","⚙️ Components","📏 Guidelines","🧩 Assets","💡 Inspirations","---","🗑️ Trashbin"];figma.currentPage.name=e[0];for(let s of e.slice(1))figma.createPage().name=s;figma.notify("Pages created successfully! 💫"),figma.closePlugin()})();
